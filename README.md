@@ -1,1 +1,2 @@
 # deep-learning-challenge
+For this challenge we are exploring machine learning and using neural networks to improve our results and produce good data. Throughout this challenge there was setup to declare what the program would need and to determine the parameters with which we compiled our model in question. In this challenge we tried three different methods of optimization and the results were saved to an H5 file
